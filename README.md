@@ -100,4 +100,4 @@ Audience Engagement: Fans can visually explore favorite teams’ journey and pla
 Performance Trends: Discover correlations in strike rate, economy rate, and total runs to drive commentary and analysis
 
 6. Screenshots
-Dashboard Preview ()
+Dashboard Preview (https://github.com/hubchinmay/IPL-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
