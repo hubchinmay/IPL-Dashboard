@@ -5,7 +5,7 @@
 An interactive Power BI dashboard that analyzes Indian Premier League (IPL) match data—focusing on team wins, player performance, match margins, and game trends to support fan engagement, team benchmarking, and strategic insights.
 
 
-### 2. Short Description / Purpose
+### 2. Short Description
 
 The MatchMaster Dashboard is a visually rich and data-driven Power BI report built to explore detailed IPL match records. It enables users to analyze matches, team performances, win margins, player impact, and game trends across multiple seasons for actionable insights.
 
@@ -27,7 +27,7 @@ Source: Excel file `IPL.xlsx`, sheet: `IPL_Team`
 The dataset includes structured information on IPL matches, such as Match ID, Date, Teams, Winner, Win Margin, Win Type, Player of the Match, Total Runs, Wickets Taken, Strike Rate, and Economy Rate—used to generate performance-based visuals and KPIs.
 
 
-### 5. Features / Highlights
+### 5. Highlights
 
 #### • Business Problem
 
