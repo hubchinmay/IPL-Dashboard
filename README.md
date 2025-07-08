@@ -98,5 +98,5 @@ Tactical Strategy: Analyze win types and margins to refine team strategies
 Audience Engagement: Fans can visually explore favorite teams’ journey and player stats
 Performance Trends: Discover correlations in strike rate, economy rate, and total runs to drive commentary and analysis
 
-6. Screenshots
-Dashboard Preview (https://github.com/hubchinmay/IPL-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
+### 6. Screenshots
+* Dashboard Preview (https://github.com/hubchinmay/IPL-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)
