@@ -49,7 +49,6 @@ To create an intuitive and visually engaging Power BI dashboard that:
 – Provides interactive filters to explore trends by team, date, and win type
 – Supports better understanding of IPL dynamics through visual storytelling
 
----
 
 #### • Walkthrough of Key Visuals
 
